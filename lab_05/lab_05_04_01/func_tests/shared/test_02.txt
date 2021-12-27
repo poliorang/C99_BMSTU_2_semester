@@ -1,0 +1,28 @@
+Andreev
+Sergey
+3 3 3 3
+
+Antonov
+Alexander
+2 3 4 5
+
+Brinter
+Alexey
+5 4 3 2
+
+Brinter
+Ilya
+5 3 4 5
+
+Kantor
+Sofia
+5 5 2 2
+
+Kornilova
+Anna
+2 3 5 5
+
+Novikov
+Evgeniy
+5 5 5 5
+

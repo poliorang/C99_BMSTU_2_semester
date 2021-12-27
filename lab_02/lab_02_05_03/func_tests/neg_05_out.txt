@@ -1,0 +1,1 @@
+Dimension of the array: [2, 10]
